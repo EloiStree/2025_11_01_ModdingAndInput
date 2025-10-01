@@ -100,5 +100,6 @@ XR Input
   - Kinect in Unity3D vs outside of it
   - Face tracking feed outside of Godot fo VTuber
   - Webcam feed for Godot multiplatform
+  - Vuforia Screen capture to Image game
   - ...
   - Sometime it is better to use hacking third party app for those topic 
