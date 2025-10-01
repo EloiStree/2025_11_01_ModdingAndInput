@@ -94,3 +94,11 @@ XR Input
  
 - Ray-Ban https://www.youtube.com/results?search_query=ray-ban
 - Tap with us https://www.tapwithus.com/
+
+
+- Native to game engine dilemma
+  - Kinect in Unity3D vs outside of it
+  - Face tracking feed outside of Godot fo VTuber
+  - Webcam feed for Godot multiplatform
+  - ...
+  - Sometime it is better to use hacking third party app for those topic 
