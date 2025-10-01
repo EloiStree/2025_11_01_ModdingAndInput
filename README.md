@@ -4,7 +4,7 @@ Workshop on input and modding for HEAJ 2025
 
 LUA: 
 - Manual https://www.lua.org/
-- Godot https://github.com/EloiStree/HelloGodotCode/issues/41
+- LUA in Godot https://github.com/EloiStree/HelloGodotCode/issues/41
 
 
 Input Workshop Challenge:
