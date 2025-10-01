@@ -1,7 +1,9 @@
-# 2025_11_01_ModdingAndInput
+# Modding And Input Workshop
+
 Workshop on input and modding for HEAJ 2025
 
-Input Worksho Challenge:
+
+Input Workshop Challenge:
 - We are going to make a game playable by 2-24+ peoples with Mouse and Keyboard.
   - And let's add some controller we found in our house
   - And let's add some chinese aracade input
