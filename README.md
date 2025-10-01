@@ -18,6 +18,13 @@ Modding Workshop Challenge:
 - Make World of Warcraft playable by blind people ( with bHaptics and sound)
 or
 - Create a social game in World of Warcraft ( with color telemetry of the player id )
+or
+- Expert Challenge:
+  - Add a NPC mob in Wow server: Your champion running in loop on a path and interacting with player.
+    - https://youtu.be/mkF_Cfn2rCo?t=159
+or
+- God Challenge:
+  - Add a NPC Mob in Wow Server that is in all servers at once at the same place.
 
 
 Note on topic:
@@ -29,3 +36,19 @@ Trace of last years:
 I will try to KISS this year
 - https://github.com/EloiStree/HelloInput/issues/289
 - https://github.com/EloiStree/HelloInput/issues/28
+
+
+
+
+Note: 
+- My moddable game https://eloistree.itch.io/2019-10-04-kissyourpuppets
+- Could be moddable game https://eloistree.itch.io/2018-09-22-typinggod
+- A game I modded for a client by hacking https://youtu.be/ndZL1nwqI0I?t=605
+- Color telemetry of wow
+  - https://youtu.be/y0ob7SHFKeg?t=287
+  - https://www.youtube.com/watch?v=1WNZ1vsFwXY&t=1036s
+- Game Export with LUA and RAM https://www.youtube.com/watch?v=w-PEJMJK9ZA&t=1s
+- Export info with code bar https://www.youtube.com/watch?v=_5vezhW6RQk&t=7s&pp=0gcJCfsJAYcqIYzv 
+- LiftOff Mod
+  - https://youtu.be/EiK3gL-FQnw?t=20
+  - https://youtu.be/x3kWP84udQA?t=42 
