@@ -2,6 +2,10 @@
 
 Workshop on input and modding for HEAJ 2025
 
+LUA: 
+- Manual https://www.lua.org/
+- Godot https://github.com/EloiStree/HelloGodotCode/issues/41
+
 
 Input Workshop Challenge:
 - We are going to make a game playable by 2-24+ peoples with Mouse and Keyboard.
